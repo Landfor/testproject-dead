@@ -28,7 +28,7 @@ void UBTTask_DEATH::TickTask(UBehaviorTreeComponent& OwnerComp, uint8* NodeMemor
 
 	int hp = 100;
 
-	
+	GetCapsuleComponent()
 
 	if (true)
 	{
